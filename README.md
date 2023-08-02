@@ -1,5 +1,4 @@
 # Promptopia is a Next.js 13 Full Stack App Using the Official React Framework
-![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
 
 ![Deployed site](public/assets/images/screenshot.jpg)
 
