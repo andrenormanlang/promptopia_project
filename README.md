@@ -1,6 +1,9 @@
 # Promptopia is a Next.js 13 Full Stack App Using the Official React Framework
 ![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
 
+![Deployed site](public/assets/images/screenshot.jpg)
+
+
 Following the tutorial of this app I got a glance of how the following works:
 - Next.js 13 App Folder Structure
 - Next.js 13 Client Components vs Server Components
