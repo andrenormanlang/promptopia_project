@@ -14,4 +14,4 @@ Following the tutorial of this app I got a glance of how the following works:
    - Incremental Static Generation (ISR)
 
 For the full tutorial visit the following link: 
-![Javascript Mastery - Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework](https://www.youtube.com/watch?v=wm5gMKuwSYk) 
+[Javascript Mastery - Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework](https://www.youtube.com/watch?v=wm5gMKuwSYk) 
